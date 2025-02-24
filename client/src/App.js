@@ -1,6 +1,21 @@
+import React, { Component } from 'react';
+
+class Function extends Component {
+  state = {  } 
+  render() { 
+    return (
+      <>
+        
+      </>
+    );
+  }
+}
+
 function App() {
   return (
-    <h1>React App</h1>
+    <>
+    <Function />
+    </>
   );
 }
 
