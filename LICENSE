@@ -1,21 +1,68 @@
-MIT License
+# Proprietary License Agreement for lni.design Software
 
-Copyright (c) 2025 Marcos Ilgi
+**Effective Date**: 02/26/2025
+**Copyright Holder**: Marcos Ilgi
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software (the "Software") is the proprietary and confidential property of Marcos Ilgi. By accessing, using, or contributing to the Software, you agree to the following terms and conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 1. **Ownership**  
+The Software, including all source code, documentation, and associated materials, is owned exclusively by the Owner. All rights, title, and interest in the Software are reserved.
+
+---
+
+## 2. **Confidentiality**  
+The Software is confidential and must not be disclosed, shared, or distributed to any third party without the prior written consent of the Owner. This includes, but is not limited to:  
+- Sharing the source code publicly or privately.  
+- Distributing compiled versions of the Software.  
+- Using the Software for purposes other than those explicitly authorized by the Owner.  
+
+---
+
+## 3. **Permitted Use**  
+The Software may only be used by authorized contributors and employees of **lni.design** for the purpose of developing, testing, and operating the Software as part of the company's internal operations.  
+
+---
+
+## 4. **Restrictions**  
+You are expressly prohibited from:  
+- Reverse engineering, decompiling, or disassembling the Software.  
+- Using the Software to create derivative works or competing products.  
+- Selling, licensing, or otherwise commercializing the Software.  
+
+---
+
+## 5. **Contributions**  
+Any contributions made to the Software (e.g., code, documentation, or design) automatically become the property of the Owner. By contributing, you waive all rights to your contributions and agree that they will be governed by this License.
+
+---
+
+## 6. **Termination**  
+This License is effective until terminated by the Owner. If you violate any terms of this License, your rights to use or contribute to the Software will terminate immediately. Upon termination, you must cease all use of the Software and destroy any copies in your possession.
+
+---
+
+## 7. **No Warranty**  
+The Software is provided "as is," without any warranties, express or implied. The Owner is not liable for any damages arising from the use or inability to use the Software.
+
+---
+
+## 8. **Governing Law**  
+This License is governed by the laws of [Land/Region einfügen, z. B. Deutschland]. Any disputes arising from this License will be resolved in the courts of [Gerichtsstand einfügen].
+
+---
+
+## 9. **Amendments**  
+The Owner reserves the right to modify this License at any time. Continued use of the Software after changes constitutes acceptance of the modified terms.
+
+---
+
+By using or contributing to the Software, you acknowledge that you have read, understood, and agreed to this License. If you do not agree, you must not use or contribute to the Software.
+
+---
+
+**Contact**:  
+For questions or permissions, contact:  
+- **Email**: mrcocgn@icloud.com
+- **Github**: mrcocgn
