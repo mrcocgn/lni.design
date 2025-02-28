@@ -1,3 +1,20 @@
+:root {
+    /* Hauptfarbe */
+    --lightgreen: #90EE90;
+  
+    /* Hintergrund oder Akzent */
+    --mint-cream: #F0FFF0;
+  
+    /* Kontrast für Text oder Schaltflächen */
+    --forest-green: #228B22;
+  
+    /* Akzentfarbe für Hervorhebungen */
+    --pale-yellow: #FFFFE0;
+  
+    /* Ergänzende Farbe für Details */
+    --olive-drab: #6B8E23;
+  }
+
 @font-face {
     font-family: Comfortaa, light;
     src: url(../DesignMaterial/Fonts/Comfortaa/static/Comfortaa-Light.ttf);
@@ -29,9 +46,28 @@
     margin: 0;
     padding: 0;
     font-family: Comfortaa, bold;
+    font-size: 18px;
+    color: var(--forest-green);
 }
 
 body {
     margin: 0;
     padding: 0;
+    background-color: var(--mint-cream);
+}
+
+header {
+    background-color: var(--lightgreen);
+    padding: 10px;
+    text-align: center;
+}
+
+header svg{
+    width: 75px;
+    height: 75px;
+    fill: var(--forest-green)
+}
+
+a {
+    color: var(--forest-green);
 }
