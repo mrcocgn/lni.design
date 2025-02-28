@@ -87,8 +87,8 @@ We are looking for IT experts who want to support us in developing this applicat
 
 ## Contact
 If you have any questions or are interested in contributing, feel free to reach out:
-- **Email**: [Your Email Address]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: mrcocgn@icloud.com
+- **GitHub**: mrcocgn
 
 ---
 
@@ -186,8 +186,8 @@ Wir suchen IT-Experten, die uns bei der Entwicklung dieser Anwendung unterstütz
 
 ## Kontakt
 Bei Fragen oder Interesse an einer Mitarbeit kannst du dich gerne an mich wenden:
-- **E-Mail**: [Deine E-Mail-Adresse]
-- **GitHub**: [Dein GitHub-Profil]
+- **E-mail**: mrcocgn@icloud.com
+- **GitHub**: mrcocgn
 
 ---
 
