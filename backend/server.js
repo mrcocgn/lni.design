@@ -1,21 +1,30 @@
-import express from "express";
-import cors from "cors";
-import dotenv from "dotenv";
-import authRoutes from "./routes/authRoutes.js";
-import userRoutes from "./routes/userRoutes.js";
-import modelRoutes from "./routes/modelRoutes.js";
-import contentRoutes from "./routes/contentRoutes.js";
+// server.js
+import express from 'express';
+import mysql from 'mysql2/promise';
+import dotenv from 'dotenv';
 
 dotenv.config();
-const app = express();
-const PORT = process.env.PORT || 5000;
 
-app.use(cors());
+const app = express();
+const port = process.env.PORT || 3001;
+
+// Middleware
 app.use(express.json());
 
-app.use("/api/auth", authRoutes);
-app.use("/api/users", userRoutes);
-app.use("/api/models", modelRoutes);
-app.use("/api/content", contentRoutes);
+// MySQL Verbindung herstellen
+const db = await mysql.createConnection({
+  host: process.env.DB_HOST,
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
+  database: process.env.DB_NAME,
+});
 
-app.listen(PORT, () => console.log(`Server läuft auf Port ${PORT}`));
+// Test-Route
+app.get('/', (req, res) => {
+  res.send('Backend läuft!');
+});
+
+// Server starten
+app.listen(port, () => {
+  console.log(`Server läuft auf Port ${port}`);
+});
